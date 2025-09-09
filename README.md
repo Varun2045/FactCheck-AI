@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://truthbot-ai-guardian.vercel.app/
+**URL**: https://fact-check-ai-dusky.vercel.app/
 
  What technologies are used for this project?
 
