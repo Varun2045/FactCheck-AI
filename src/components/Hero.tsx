@@ -20,7 +20,7 @@ export const Hero = ({ onGetStarted }: HeroProps) => {
           <div className="space-y-8 animate-fade-in">
             <div className="flex items-center gap-3 text-primary">
               <Shield className="w-8 h-8" />
-              <span className="text-lg font-semibold">TruthBot AI Guardian</span>
+              <span className="text-lg font-semibold">FactCheck AI</span>
             </div>
             
             <h1 className="text-5xl lg:text-6xl font-bold text-foreground leading-tight">
